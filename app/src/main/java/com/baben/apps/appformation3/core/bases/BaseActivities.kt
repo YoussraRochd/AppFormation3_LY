@@ -23,4 +23,6 @@ abstract class BaseActivities : AppCompatActivity() {
     private fun initData(){
      context = this
     }
+
+
 }
