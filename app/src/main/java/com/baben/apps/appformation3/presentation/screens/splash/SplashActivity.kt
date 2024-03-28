@@ -49,4 +49,5 @@ class SplashActivity : BaseActivities() {
         finish()
     }
 
+
 }

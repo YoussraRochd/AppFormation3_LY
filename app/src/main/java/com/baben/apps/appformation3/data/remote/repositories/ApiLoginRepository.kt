@@ -8,5 +8,4 @@ class ApiLoginRepository : LoginRepository {
     override fun login(model: Login?): LoginRepository.LoginResult? {
         TODO("Not yet implemented")
     }
-
 }

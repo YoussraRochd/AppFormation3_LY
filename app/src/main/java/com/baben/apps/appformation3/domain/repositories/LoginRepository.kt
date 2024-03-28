@@ -5,7 +5,6 @@ import com.baben.apps.appformation3.domain.models.Login
 
 interface LoginRepository {
 
-
     @Throws(NetworkErrorException::class)
     fun login(model: Login?): LoginResult?
 
